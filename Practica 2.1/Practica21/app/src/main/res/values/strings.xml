@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="materia">Desarrollo de aplicaciones moviles</string>
+    <string name="nombre">Jovani</string>
+    <string name="apellido">Vargas</string>
+    <string name="home_screen">Pantalla principal</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Bienvenido</string>
+    <string name="home_fab_text">Agregar</string>
+</resources>

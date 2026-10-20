@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Essais</string>
+    <string name="materia">Développement d\'applications mobiles</string>
+    <string name="nombre">Jovani</string>
+    <string name="apellido">Vargas</string>
+    <string name="home_screen">Pantalla principal</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">fondo</string>
+    <string name="home_fab_text">Agregar</string>
+</resources>
